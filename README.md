@@ -25,7 +25,7 @@ MYSQLDUMP_PATH=<PATH_To_MYSQLDUMP>
 		
 7. To back up database hit the URL : http://localhost/db-backup-one-click/public/
 		
-8. Database backup will be created at 	<path to project>/storage/app/backups/	
+8. Database backup will be created at : <path_to_project>/storage/app/backups/	
 
 9. You can also take backup of database using below command
 		php artisan backup:mysql-dump
