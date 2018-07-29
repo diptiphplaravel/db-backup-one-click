@@ -6,7 +6,7 @@
 
 3. Then update the composer with "composer update" command.
 
-4. Set below values in .env \n
+4. Set below values in .env
 Create database and give details as per below
 DB_HOST=<DB_HOST>
 DB_PORT=<DB_PORT>
