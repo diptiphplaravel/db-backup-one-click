@@ -1,6 +1,6 @@
 # db-backup-one-click
 
-1. Install Composer and xxamp on your machine and clone the project in xxamp's htdocs directory
+1. Install Composer and xxamp on your machine and clone the project in xampp's htdocs directory
 
 2. Grant RW permission to Bootstrap and Storage folders
 
